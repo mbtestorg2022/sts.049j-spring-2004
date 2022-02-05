@@ -4,28 +4,297 @@ title: Calendar
 uid: 018fec92-5e32-12c6-25c9-d2d604f5ed61
 ---
 
-| sEs # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Gender and History | &nbsp; |
-| 3 | How Technologies are Gendered I | &nbsp; |
-| 4 | How Technologies are Gendered II | Proposal for final paper due today |
-| 5 | Advertising Gender | &nbsp; |
-| 6 | Redefining Gender by Way of Technology: Workplaces | &nbsp; |
-| 7 | Redefining Gender by Way of Technology: Workplaces (cont.) | Paper 1 due today |
-| 8-9 | Technology in the Home | &nbsp; |
-| 10 | Technology in the Home (cont.) | &nbsp; |
-| 11 | Women in Technology: Medicine | &nbsp; |
-| 12 | Midterm Exam | &nbsp; |
-| 13 | Women and Engineering at MIT | &nbsp; |
-| 14 | Engineering and Masculinity | Paper 2 due, two days after session 14 |
-| 15 | Engineering and Masculinity II | &nbsp; |
-| 16 | Women in Technology: Computers | &nbsp; |
-| 17 | Gender and Aviation | &nbsp; |
-| 18 | Identity and Consumer Culture I | &nbsp; |
-| 19 | Identity and Consumer Culture II | &nbsp; |
-| 20 | Automobility, Freedom, and Constraint I | &nbsp; |
-| 21 | Automobility, Freedom, and Constraint II | Draft of paper 3 due today |
-| 22 | Production and Consumption in Modern America | &nbsp; |
-| 23 | Production and Consumption in Modern America | &nbsp; |
-| 24-25 | Presentations | Paper 3 due on session 25
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+sEs #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Gender and History
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+How Technologies are Gendered I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+How Technologies are Gendered II
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal for final paper due today
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Advertising Gender
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Redefining Gender by Way of Technology: Workplaces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Redefining Gender by Way of Technology: Workplaces (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due today
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Technology in the Home
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Technology in the Home (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Women in Technology: Medicine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Women and Engineering at MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering and Masculinity
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due, two days after session 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering and Masculinity II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Women in Technology: Computers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Gender and Aviation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Identity and Consumer Culture I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Identity and Consumer Culture II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Automobility, Freedom, and Constraint I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Automobility, Freedom, and Constraint II
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of paper 3 due today
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Production and Consumption in Modern America
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Production and Consumption in Modern America
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-25
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 3 due on session 25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
